@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikhagendra&show_icons=true&locale=en&layout=compact" alt="hikhagendra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikhagendra&show_icons=true&locale=en" alt="hikhagendra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikhagendra&" alt="hikhagendra" /></p>
