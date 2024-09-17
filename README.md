@@ -20,8 +20,9 @@
 
 <h3 align="left">My Recent Projects:</h3>
 <ol>
-  <li><a href="https://gracelanguageinstitute.com/">Grace Language Institute</a></li>
-  <li><a href="https://www.kifellowship.org/">Kathmandu International Fellowship</a></li>
+  <li>[The Points World](https://thepointsworld.com/) - In Progress</li>
+  <li>[Grace Language Institute](https://gracelanguageinstitute.com/)</li>
+  <li>[Kathmandu International Fellowship](https://www.kifellowship.org/)</li>
 </ol>
 
 <h3 align="left">Languages and Tools:</h3>
