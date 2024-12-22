@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [The Points World](https://thepointsworld.com/)
 
-- 🌱 I’m currently learning **Advanced WordPress Development and Complete Frontend Development**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **WordPress, Git, JavaScript, HTML, and CSS**
 
